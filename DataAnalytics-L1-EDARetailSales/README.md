@@ -1,7 +1,7 @@
 # Retail Sales Exploratory Data Analysis
 
 ## Internship Task
-Oasis Infobyte Summer Internship Program (OIBSIP)
+**YUVAINTERN**
 
 **Track:** Data Analytics  
 **Level:** L1  
