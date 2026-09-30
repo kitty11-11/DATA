@@ -1,11 +1,6 @@
 # Retail Sales Exploratory Data Analysis
 
-## Internship Task
-**YUVAINTERN**
 
-**Track:** Data Analytics  
-**Level:** L1  
-**Task:** Exploratory Data Analysis – Retail Sales
 
 ## Project Overview
 
